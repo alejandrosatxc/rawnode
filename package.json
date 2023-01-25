@@ -1,0 +1,15 @@
+{
+  "name": "rawnode",
+  "version": "1.0.0",
+  "description": "Just Goofin",
+  "main": "rawnode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "newboot",
+    "goofin"
+  ],
+  "author": "Alejandro Zapien",
+  "license": "ISC"
+}
