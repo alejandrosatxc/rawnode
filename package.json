@@ -5,12 +5,16 @@
   "main": "rawnode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node rawnode.js"
+    "start": "node rawnode-express.js",
+    "raw" : "node rawnode.js"
   },
   "keywords": [
     "newboot",
     "goofin"
   ],
   "author": "Alejandro Zapien",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
