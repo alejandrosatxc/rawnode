@@ -23,5 +23,5 @@ app.use((err, req, res, next) => {
     res.render('500')
 })
 app.listen(PORT, () => {
-    console.log(`Rawnode is running with express on port: ${PORT}`)
+    console.log(`Rawnode is running with express, using handlebars as a view engine on port: ${PORT}`)
 })
